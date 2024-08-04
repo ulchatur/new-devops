@@ -1,3 +1,4 @@
 This file is created for webhook trigger for jenkins
 This is aa new line in the file
 TEsting the slave node runner
+Now git tool is installed on slave server
